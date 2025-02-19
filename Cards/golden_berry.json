@@ -1,0 +1,6 @@
+{
+    "$schema": "../schemas/card.schema.json",
+    "id": "wojtekmod_golden_berry",
+    "nameTerm": "wojtekmod_golden_berry_name",
+    "descriptionTerm": "wojtekmod_golden_berry_description"
+}
