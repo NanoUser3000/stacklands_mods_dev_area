@@ -3,9 +3,9 @@ using System;
 using System.Collections;
 using UnityEngine;
 
-namespace ExampleModNS
+namespace WojtekTrzeciakFirstModNS
 {
-    public class ExampleMod : Mod
+    public class WojtekTrzeciakFirstMod : Mod
     {
         public override void Ready()
         {
